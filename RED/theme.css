@@ -365,19 +365,6 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
   border-radius: 2px;
   background: #888888; }
 
-/* 2.2.2 Logos */
-/* Login Page */
-.imgLogoIcon {
-  content: url(https://raw.githubusercontent.com/olskar/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
-
-/* Main Drawer Mobile */
-.adminDrawerLogo img {
-  content: url(https://raw.githubusercontent.com/olskar/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
-
-/* Home Page */
-.pageTitleWithLogo {
-  background-image: url(https://raw.githubusercontent.com/olskar/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png ) !important; }
-
 /* 2.2.3 Others	*/
 /* CSS Box */
 #txtCustomCss {
