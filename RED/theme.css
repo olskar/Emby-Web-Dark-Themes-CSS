@@ -114,7 +114,7 @@ _________________________________________________________________________
 .button-link:hover, .button-flat-accent:hover,
 .button-accent-flat:hover, .textlink:hover {
   color: #9b9b9b !important; }
-
+.headerRight { color: yellow; }
 .button-link:active, .button-flat-accent:active,
 .button-accent-flat:active, .textlink:active {
   color: #94131E !important; }
