@@ -70,7 +70,6 @@ _________________________________________________________________________
 .emby-checkbox:checked + span + span + .checkboxOutline > .checkboxOutlineTick {
   background-color: #E81123 !important; }
 
-
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
   border-color: #E81123 !important; }
@@ -114,7 +113,7 @@ _________________________________________________________________________
 .button-link:hover, .button-flat-accent:hover,
 .button-accent-flat:hover, .textlink:hover {
   color: #9b9b9b !important; }
-.headerRight { color: yellow; }
+
 .button-link:active, .button-flat-accent:active,
 .button-accent-flat:active, .textlink:active {
   color: #94131E !important; }
@@ -190,9 +189,6 @@ p#pUpToDate i.md-icon {
 
 .secondary.listItemBodyText span, div#divRunningTasks span {
   color: #E81123 !important; }
-
-.emby-input, .emby-textarea, .emby-select { border-color: #E81123; }
-.emby-input:focus, .emby-textarea:focus, .emby-select-withcolor { border-color: #E81123 !important; }
 
 /* 1.2.4 Icons */
 .starIcon, .mediaInfoTimerIcon {
@@ -368,6 +364,19 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
   -webkit-border-radius: 2px;
   border-radius: 2px;
   background: #888888; }
+
+/* 2.2.2 Logos */
+/* Login Page */
+.imgLogoIcon {
+  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+
+/* Main Drawer Mobile */
+.adminDrawerLogo img {
+  content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
+
+/* Home Page */
+.pageTitleWithLogo {
+  background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
 
 /* 2.2.3 Others	*/
 /* CSS Box */
