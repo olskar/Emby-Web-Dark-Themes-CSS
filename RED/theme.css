@@ -70,6 +70,7 @@ _________________________________________________________________________
 .emby-checkbox:checked + span + span + .checkboxOutline > .checkboxOutlineTick {
   background-color: #E81123 !important; }
 
+
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
   border-color: #E81123 !important; }
@@ -189,6 +190,9 @@ p#pUpToDate i.md-icon {
 
 .secondary.listItemBodyText span, div#divRunningTasks span {
   color: #E81123 !important; }
+
+.emby-input, .emby-textarea, .emby-select { border-color: #E81123; }
+.emby-input:focus, .emby-textarea:focus, .emby-select-withcolor { border-color: #E81123 !important; }
 
 /* 1.2.4 Icons */
 .starIcon, .mediaInfoTimerIcon {
